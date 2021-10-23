@@ -45,6 +45,7 @@
       projectile-discover-search-path '("~/dev")
 )
 
+(setq haskell-stylish-on-save t)
 
 ;; Here are some additional functions/macros that could help you configure Doom:
 ;;
