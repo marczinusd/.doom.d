@@ -51,3 +51,5 @@
 
 (package! haskell-mode)
 (package! lsp-haskell)
+(package! reformatter)
+(package! ormolu)
