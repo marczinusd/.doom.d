@@ -27,9 +27,12 @@
 ;; `load-theme' function. This is the default:
 (setq 
       doom-theme 'doom-vibrant
-      doom-font (font-spec :family "Ligalex Mono" :size 24 :weight 'medium)
-      doom-big-font (font-spec :family "Ligalex Mono" :size 36)
+      doom-font (font-spec :family "Cascadia Code PL" :size 26)
+      doom-big-font (font-spec :family "Cascadia Code PL" :size 38)
 )
+
+(setq doom-themes-enable-bold t   
+      doom-themes-enable-italic t) 
 
 (setq doom-themes-treemacs-theme "doom-colors")
 
