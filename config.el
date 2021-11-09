@@ -27,8 +27,8 @@
 ;; `load-theme' function. This is the default:
 (setq 
       doom-theme 'doom-vibrant
-      doom-font (font-spec :family "Cascadia Code PL" :size 26)
-      doom-big-font (font-spec :family "Cascadia Code PL" :size 38)
+      doom-font (font-spec :family "Delugia" :size 26)
+      doom-big-font (font-spec :family "Delugia" :size 38)
 )
 
 (setq doom-themes-enable-bold t   
